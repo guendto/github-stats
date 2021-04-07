@@ -1,5 +1,7 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+[![Generate Stats Images](https://github.com/guendto/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/guendto/github-stats/actions/workflows/main.yml)
+
 <a href="https://github.com/jstrieb/github-stats">
 
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
