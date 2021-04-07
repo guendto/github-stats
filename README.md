@@ -1,6 +1,6 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-
 [![Generate Stats Images](https://github.com/guendto/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/guendto/github-stats/actions/workflows/main.yml)
+
+# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <a href="https://github.com/jstrieb/github-stats">
 
